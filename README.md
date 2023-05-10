@@ -1,0 +1,1 @@
+This is a Runge-Kutta-4 sim of a lander spacecraft that utilizes a fuel-optimal control program, that accounts for constraints on the minimum and maximum thrust output possible. This project is heavily inspired by the work done by JPL, Behcet Acikmese, and Masten Space Systems on G-FOLD and Lossless Convexification.
